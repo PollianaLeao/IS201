@@ -24,8 +24,8 @@ h1 {
 
 .mainstuff {
     background-color: rgb(205, 228, 248); 
-    padding: 15px;
-    margin: 20px 0; 
+    padding: 10px;
+    margin: 1px; 
     
 }
 
@@ -36,11 +36,11 @@ h1 {
 .tableaustyles {
     display: block;
     margin: auto;
-    width: 100%;
+    width: 200%;
 }
 
 ol {
-    padding: 10px;
+    padding: 25px;
 }
 
 .footer {
